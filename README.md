@@ -36,7 +36,7 @@ A backend project to manage student data using Spring Boot, REST API, Hibernate,
 
 ## 📈 GitHub Stats
 
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshan123gupta0\&show_icons=true\&theme=tokyonight\&hide_border=false)
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan9067\&show_icons=true\&theme=tokyonight\&hide_border=false)
 
 ---
 
